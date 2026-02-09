@@ -45,7 +45,7 @@ The user interface and interaction flow were designed using **Figma**, with a fo
 - Accessibility and readability over a live camera feed  
 
 ### Design Files
-- Figma Prototype: *(insert Figma link here)*  
+- Figma Prototype: *(https://www.figma.com/proto/zrJc27gYRuG03zh1lBN5BA/Untitled?node-id=2-357&p=f&t=vC3JC2Zmm6PBZwqf-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)*
 - Screenshots: `/designs/screenshots/`  
 
 ---
@@ -100,7 +100,7 @@ A short demo video (5–10 minutes) demonstrates:
 - Pronunciation interaction  
 - Vocabulary saving and review  
 
-📹 *(Insert video link here)*
+📹 *(https://drive.google.com/file/d/1J9RlNgU4uEOuonIUsVN5OVANU0VrZBc5/view?usp=sharing)*
 
 ---
 
